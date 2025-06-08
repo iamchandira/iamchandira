@@ -72,7 +72,7 @@ Version Ctrl   :: Git, GitHub
 
 | 🚀 Project            | 🌟 Description |
 |----------------------|----------------|
-| [**Aduruthuma LMS**](https://github.com/ChandiraEk) | First LMS in Sri Lanka with Auto Zoom Recording Updates |
+| **Aduruthuma LMS** | First LMS in Sri Lanka with Auto Zoom Recording Updates |
 | **ZoomCipher**        | Secure Zoom Meeting Link Manager with Auth Tokens |
 | **STC Website**       | Official Site for St. Thomas' College - Matara |
 | **eLift**             | Next-Gen Online Class Management Platform |
@@ -87,7 +87,7 @@ Version Ctrl   :: Git, GitHub
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=iamchandira&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamchandira&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
