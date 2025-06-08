@@ -53,7 +53,7 @@ Version Ctrl   :: Git, GitHub
 - 🧠 **Selected** — Moraforesight 1.0, University of Moratuwa  
 - 🧑‍💻 **Full Stack Dev Program** — University of Moratuwa (DP Education)  
 - 💬 **Soft Skills+ Finalist** — SLIIT  
-- 🧮 **G.C.E O/L (2021)** — 8 A passes  
+- 🧮 **G.C.E O/L (2021)** — 8A passes & C pass  
 
 ---
 
@@ -82,12 +82,12 @@ Version Ctrl   :: Git, GitHub
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChandiraEk&show_icons=true&theme=tokyonight&hide=contribs&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandiraEk&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamchandira&show_icons=true&theme=tokyonight&hide=contribs&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamchandira&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ChandiraEk&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=iamchandira&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
@@ -96,7 +96,7 @@ Version Ctrl   :: Git, GitHub
 
 📩 Email: info@iamchandira.com  
 🌐 Portfolio: [www.iamchandira.com](https://www.iamchandira.com)  
-📱 Socials: LinkedIn / X / Instagram
+📱 Socials: WhatsApp / Facebook / Instagram
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=200&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=24&fontColor=ffffff" />
